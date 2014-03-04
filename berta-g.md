@@ -11,5 +11,5 @@
 	*camino
 	*asakusa
 
-#bye!
+#bye!bye!
 
